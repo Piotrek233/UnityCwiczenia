@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-10-11T18:07:53.661+02:00
+  initializedAtString: 2020-10-11T18:03:25.643+02:00
+  log:
+  - commitID: 7d78827919207110eeea3468eb7a25db3eb0cf7d
+    mergeA: 
+    mergeB: 
+    authorName: Piotrek233
+    authorEmail: 32534983+Piotrek233@users.noreply.github.com
+    commitEmail: 32534983+Piotrek233@users.noreply.github.com
+    commitName: Piotrek233
+    summary: test
+    description: test
+    timeString: 2020-10-11T18:07:23.000+02:00
+    commitTimeString: 2020-10-11T18:07:23.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\PC\Documents\GitHub\UnityCwiczenia\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 3d6f6387224a2a746b4315e622ce6ee6d1ab5c9d
+    mergeA: 
+    mergeB: 
+    authorName: Piotrek233
+    authorEmail: 32534983+Piotrek233@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-10-11T17:50:50.000+02:00
+    commitTimeString: 2020-10-11T17:50:50.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\PC\Documents\GitHub\UnityCwiczenia\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
