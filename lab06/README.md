@@ -1,1 +1,2 @@
-Niestety nie udało się wygenerować obrazu, na początku cały czas generowałą podłoże oraz kawałek ściany. Najbliżej orginalu udało się wygenerować pół globusa :). Samo generowanie trwało strasznie długo jedna próba zajmowało od 2 do 6 godzin. Chodź czasem zdażało się że po 6 godzinach pasek nie był nawet w połowie.
+v2:
+Po kilkunastej próbie udało się wygenerować obraz.
